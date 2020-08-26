@@ -6,7 +6,6 @@ A repo of all the parts, cad files, configurations for MK2s mods with SKR 1.4T +
 A full set of modified files and firmware configuration for a set of mods to an original prusa MK2s. Parts that are not included in this repo have not been modified & therefore should be resourced from the orginal prusa repo.
 
 Mod Details:
-
 Prusa MK2S original frame, bed, steppers, and power supply @12v
 BTT SR 1.4 Turbo
 BTT 2209 (Sensorless Homing is required as the modified parts do not allow for micro switches)
