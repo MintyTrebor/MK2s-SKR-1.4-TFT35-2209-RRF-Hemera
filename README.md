@@ -1,5 +1,5 @@
 # MK2s-SKR-1.4-TFT35-2209-RRF-Hemera
-A repo of all the parts, cad files, configurations for MK2s mods with SKR 1.4T + Hemera with only 2mm loss of build volume.
+A repo of all the parts, cad files, configurations for MK2s mods with SKR 1.4T + Hemera with only small loss of build volume.
 
 (This mod is created using modified original prusa parts and designs from thingiverse - please see attribution.txt for details.)
 
